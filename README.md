@@ -7,7 +7,7 @@ Tecnoligia y librerias utilizadas: Utilice Python y las librerias pandas, sklear
 Responsabilidad clave: Ademas de la limpieza de datos, se realizo una EDA (analisis exploratorio de datos), se crearon dos modelos (RamdonForest y Regresion Logistica), se comparararon y se tomo el mejor (Regresion Logistica) para su optimizacion y obtener el mejor resultado de identificacion de pacientes enfermos.
 
 Impacto logrado: 
-🔹 Sensibilidad (Recall): 93.5% → Detectamos 935 de cada 1,000 enfermos
-🔹 Especificidad: 80.7% → Clasificamos correctamente 807 de cada 1,000 sanos
-🔹 Precisión: 79.7% → 8 de cada 10 diagnósticos positivos son correctos
-🔹 AUC-ROC: 0.954 → Capacidad discriminativa EXCELENTE
+Sensibilidad (Recall): 93.5% → Detectamos 935 de cada 1,000 enfermos.
+Especificidad: 80.7% → Clasificamos correctamente 807 de cada 1,000 sanos.
+Precisión: 79.7% → 8 de cada 10 diagnósticos positivos son correctos.
+AUC-ROC: 0.954 → Capacidad discriminativa EXCELENTE.
